@@ -19,16 +19,21 @@ A compatible environment (e.g., virtualenv or conda)
 Installation
 
 Clone the Repository:
+
 git clone https://github.com/RajdeepKushwaha5/MyChatGPT.git
+
 cd MyChatGPT
 
 
 Set Up a Virtual Environment (optional but recommended):
+
 python -m venv venv
+
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 
 Install Dependencies:
+
 pip install -r requirements.txt
 
 
